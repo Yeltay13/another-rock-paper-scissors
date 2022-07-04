@@ -1,3 +1,17 @@
 .container {
-    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    
+    margin: auto;    
+}
+
+img {
+    width: 100px;
+    
+}
+#result {
+    text-align: center;
+    margin-bottom: 30px;
 }
